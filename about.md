@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a data scientist at the Division of Research at Kaiser Permanente leading the development of production-ready algorithms and models that have been used throughout dozens of hospitals in Northern California.  My emphasis has been on predicting imminent risk of deterioration and death among hospitalized patients and establishing protocol to catch early risks patients.  I have a math and statistics background, gaining my Master’s Degree in Statistics and Stochastic Modelling from UC Santa Cruz.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[juanclaguardia@gmail.com](mailto:juanclaguardia@gmail.com)
