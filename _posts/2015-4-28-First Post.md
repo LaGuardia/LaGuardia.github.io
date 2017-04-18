@@ -2,9 +2,6 @@
 layout: post
 title: Blog with RStudio, R, RMarkdown, Jekyll and Github.
 author: Juan Carlos LaGuardia
-published: true
-status: publish
-draft: false
 tags: R Jekyll RStudio
 ---
  
